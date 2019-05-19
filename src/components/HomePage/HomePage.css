@@ -30,14 +30,13 @@ button.react-calendar__tile {
 }
 
 .HomePage-main {
-  margin-top: 14%;
+  margin-top: 0.3rem;
 }
 
 .HomePage-main-img {
   width: 12rem;
   margin-left: auto;
   margin-right: auto;
-  margin-top: auto;
   display: block;
   height: 8.5rem;
 }
@@ -54,6 +53,6 @@ button.react-calendar__tile {
   }
 
   .HomePage-main {
-    margin-top: 5%;
+    margin-top: 0;
   }
 }

@@ -31,21 +31,23 @@ class HomePage extends Component {
             For a list of TV shows, please select the desired month and day.
           </p>
         </div>
-        <Calendar
-          onChange={this.onChange}
-          value={this.state.date}
-          locale="en"
-          onClickDay={this.onClickDayHandler}
-          calendarType="ISO 8601"
-          minDetail="year"
-          navigationLabel={({ date }) =>
-            `${date.toLocaleDateString('en-GB', {
-              month: 'long'
-            })}`
-          }
-          nextLabel={<i className="fas fa-chevron-right" />}
-          prevLabel={<i className="fas fa-chevron-left" />}
-        />
+        <div>
+          <Calendar
+            onChange={this.onChange}
+            value={this.state.date}
+            locale="en"
+            onClickDay={this.onClickDayHandler}
+            calendarType="ISO 8601"
+            minDetail="year"
+            navigationLabel={({ date }) =>
+              `${date.toLocaleDateString('en-GB', {
+                month: 'long'
+              })}`
+            }
+            nextLabel={<i className="fas fa-chevron-right" />}
+            prevLabel={<i className="fas fa-chevron-left" />}
+          />
+        </div>
       </div>
     );
   }
