@@ -1,0 +1,35 @@
+.TvshowItem-container {
+  display: flex;
+}
+
+.TvshowItem-image-container {
+  padding: 1rem;
+}
+
+.TvshowItem-image {
+  max-width: 8rem;
+}
+
+.TvshowItem-image__original {
+  max-width: 90vw;
+  max-height: 70vh;
+  margin: auto;
+}
+
+.TvshowItem-info-container {
+  padding: 1rem;
+}
+
+.TvshowItem-info-container h6 {
+  color: grey;
+}
+
+.TvshowItem-info-season {
+  background-color: #F7F7F7;
+  color: grey;
+  margin-top: 3rem;
+}
+
+.TvshowItem-info-season p {
+  padding: 0.5rem;
+}

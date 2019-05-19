@@ -1,0 +1,14 @@
+.App-header {
+  text-align: center;
+  font-size: 1.6rem;
+  background-color: #F7F7F7;
+  line-height: 3rem;
+}
+
+.App-header__icon {
+  position: absolute;
+  left: 0;
+  color: tomato;
+  padding-left: 1rem;
+  font-size: 1.4rem;
+}
