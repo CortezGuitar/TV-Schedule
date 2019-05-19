@@ -9,7 +9,7 @@ class TvshowPage extends Component {
   componentDidMount() {
     const { date } = this.props.match.params;
     axios
-      .get(`http://api.tvmaze.com/schedule?country=US&date=${date}`)
+      .get(`https://api.tvmaze.com/schedule?country=US&date=${date}`)
       .then(data => this.setState({ data: data.data }));
   }
 
