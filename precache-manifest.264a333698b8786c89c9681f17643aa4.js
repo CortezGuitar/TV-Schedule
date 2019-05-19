@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc1434c5d93383b202f5eeb8c6d5e917",
+    "revision": "1f3a20d0ace9e28b30206eafef36f110",
     "url": "/tv-schedule/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tv-schedule/static/css/2.c51b6406.chunk.css"
   },
   {
-    "revision": "a8c8970e200b9689c68a",
+    "revision": "5313f7810690a8c16d67",
     "url": "/tv-schedule/static/css/main.8ed02202.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tv-schedule/static/js/2.87328e79.chunk.js"
   },
   {
-    "revision": "a8c8970e200b9689c68a",
-    "url": "/tv-schedule/static/js/main.2a3e564a.chunk.js"
+    "revision": "5313f7810690a8c16d67",
+    "url": "/tv-schedule/static/js/main.4d08b085.chunk.js"
   },
   {
     "revision": "9cc0bb79d6de4ca3110d",

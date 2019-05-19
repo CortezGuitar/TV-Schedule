@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tv-schedule/static/css/main.8ed02202.chunk.css",
-    "main.js": "/tv-schedule/static/js/main.2a3e564a.chunk.js",
-    "main.js.map": "/tv-schedule/static/js/main.2a3e564a.chunk.js.map",
+    "main.js": "/tv-schedule/static/js/main.4d08b085.chunk.js",
+    "main.js.map": "/tv-schedule/static/js/main.4d08b085.chunk.js.map",
     "runtime~main.js": "/tv-schedule/static/js/runtime~main.58fd84fa.js",
     "runtime~main.js.map": "/tv-schedule/static/js/runtime~main.58fd84fa.js.map",
     "static/css/2.c51b6406.chunk.css": "/tv-schedule/static/css/2.c51b6406.chunk.css",
     "static/js/2.87328e79.chunk.js": "/tv-schedule/static/js/2.87328e79.chunk.js",
     "static/js/2.87328e79.chunk.js.map": "/tv-schedule/static/js/2.87328e79.chunk.js.map",
     "index.html": "/tv-schedule/index.html",
-    "precache-manifest.36f5969e2dc4b23a09579e1b0b421c24.js": "/tv-schedule/precache-manifest.36f5969e2dc4b23a09579e1b0b421c24.js",
+    "precache-manifest.264a333698b8786c89c9681f17643aa4.js": "/tv-schedule/precache-manifest.264a333698b8786c89c9681f17643aa4.js",
     "service-worker.js": "/tv-schedule/service-worker.js",
     "static/css/2.c51b6406.chunk.css.map": "/tv-schedule/static/css/2.c51b6406.chunk.css.map",
     "static/css/main.8ed02202.chunk.css.map": "/tv-schedule/static/css/main.8ed02202.chunk.css.map"
