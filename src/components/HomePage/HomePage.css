@@ -7,12 +7,12 @@
 }
 
 .react-calendar__navigation {
-  background-color: #F7F7F7;
+  background-color: #f7f7f7;
   margin-bottom: 0;
 }
 
 button.react-calendar__tile {
-  border: 1px solid #F7F7F7
+  border: 1px solid #f7f7f7;
 }
 
 .react-calendar__month-view__weekdays {
@@ -22,15 +22,23 @@ button.react-calendar__tile {
 .react-calendar {
   width: 100%;
   border: none;
-  position: absolute;
-  bottom: 0;
   font-size: 1.2rem;
-  margin: 0vh;
   font-family: inherit;
 }
 
+.HomePage-container {
+  height: 92.5vh;
+  display: flex;
+  flex-direction: column;
+}
+
 .HomePage-main {
-  margin-top: 0.3rem;
+  flex: 1 0 auto;
+  padding-top: 3rem;
+}
+
+.HomePage-calendar {
+  flex-shrink: 0;
 }
 
 .HomePage-main-img {
@@ -53,6 +61,6 @@ button.react-calendar__tile {
   }
 
   .HomePage-main {
-    margin-top: 0;
+    padding-top: 0.5rem;
   }
 }

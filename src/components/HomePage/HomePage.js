@@ -20,7 +20,7 @@ class HomePage extends Component {
 
   render() {
     return (
-      <div>
+      <div className="HomePage-container">
         <div className="HomePage-main">
           <img
             src="https://abeon-hosting.com/images/old-tv-cliparts-19.jpg"
@@ -31,7 +31,7 @@ class HomePage extends Component {
             For a list of TV shows, please select the desired month and day.
           </p>
         </div>
-        <div>
+        <div className="HomePage-calendar">
           <Calendar
             onChange={this.onChange}
             value={this.state.date}
